@@ -14,3 +14,11 @@ when it comes to syntax but it is cool hoz u can see the texts codes and graohs 
 within the same  script and git is essential for all to track changes and share your work with teammates
 
 ![Alt Text](images/pic.png)
+
+i learnt how to use the push and commit features very comfortally and how to navigate from github desktop
+to the vs code to change the scripts and then commit them while writing messages to mark every change
+and then i also learnt to connect this to the online repositories website where we can see the projects
+and i also learnt to create a new branch where i can make mistakes and learn without losing important data 
+or information from the main script and i also learnt how to add images either online or from my computer 
+to the readme file
+main commands used are commit and creating new branch and push
