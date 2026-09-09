@@ -12,3 +12,5 @@ any project requires these skills and python alone is already a familiar languag
 user-friendly and the syntax is easy to understand but the R one is kind of complicated 
 when it comes to syntax but it is cool hoz u can see the texts codes and graohs all together
 within the same  script and git is essential for all to track changes and share your work with teammates
+
+![Alt Text](images/pic.png)
